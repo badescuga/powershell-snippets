@@ -13,4 +13,6 @@ List of thing to know
 
 
 
-You can find more info at <link>https://github.com/powershell/dscresources</link>
+You can find more info at <link>https://github.com/powershell/dscresources</link> regarding dsc resources.<br/>
+A great tutorial on Azure VM DSC configuration can be found at <link>http://blogs.msdn.com/b/powershell/archive/2014/08/07/introducing-the-azure-powershell-dsc-desired-state-configuration-extension.aspx</link>
+
