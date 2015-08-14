@@ -8,3 +8,9 @@ List of thing to know
 - to "compile" the configurations into <code>.mof</code>, you need to just enter the configuration name (see sample1.ps1, stage 2)
 - to run configuration, use <code>Start-DscConfiguration YourConfigurationName -Wait -Verbose</code>
 - to install not yet released packages (prefixed with an 'x', like 'xWebAdministration'), use <code>Install-Package -Name xWebAdministration -Force</code>. It will install the packages in <code>/Program Files/WindowsPowerShell/Modules</code>
+
+
+
+
+
+You can find more info at <link>https://github.com/powershell/dscresources</link>
